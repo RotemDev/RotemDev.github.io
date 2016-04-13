@@ -1,0 +1,6 @@
+{
+  "name": "Rotemdev.GitHub.io",
+  "tagline": "WebPage",
+  "body": "Simple Text: `Hello World!`\r\n\r\nJava: `System.out.println(\"Hello World!\")`\r\n\r\nPython2: `print \"Hello World!\"`\r\n\r\nPython3: `print(\"Hello World!\")`\r\n\r\nMinecraft: `/say Hello World!`\r\n\r\nBash: `echo \"Hello World!\"`\r\n\r\nWin32 CMD: `echo Hello World!`",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
